@@ -4,6 +4,6 @@ Preferred Starter Template for SvelteKit
 
 ## Features
 
-- SvelteKit
-- UnoCSS (Tailwind-Compatible)
-- UnoCSS Iconify
+- [SvelteKit](https://kit.svelte.dev)
+- [UnoCSS](https://github.com/unocss/unocss) (Tailwind-Compatible CSS engine)
+- [UnoCSS Icons](https://github.com/unocss/unocss/tree/main/packages/preset-icons/)
